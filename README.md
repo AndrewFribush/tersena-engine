@@ -45,3 +45,5 @@ Prefix and fuzzy matches are heuristic and can select the wrong identity. Parsin
 See [PROVENANCE.md](PROVENANCE.md) for the exact extraction changes.
 
 Copyright 2026 Andrew Fribush. All rights reserved; no open-source license is granted. See [NOTICE](NOTICE).
+
+[Development history](HISTORY.md) preserves the original changes to the extracted modules and parser tests.

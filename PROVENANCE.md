@@ -12,4 +12,4 @@ The fixture, demo CLI, example launcher, CLI-boundary tests, packaging, and show
 
 The historical evaluation paragraph summarizes only aggregate counts from the original `data/eval_report.md`, whose hash is recorded. That report was not copied, and its underlying Open Beauty Facts data, unmatched-label examples, and mixed-source knowledge base were not extracted. This is attribution for a historical observation, not a freshly reproduced result.
 
-No production data, customer catalogs, retailer lists, credentials, deployments, source-repository history, or private operations documents are included. Source availability does not grant an open-source license; see NOTICE.
+Selected development history for the four complete modules and two original parser test files is included; [HISTORY.md](HISTORY.md) describes its scope and original dates. No production data, customer catalogs, retailer lists, credentials, deployments, or private operations documents are included. Source availability does not grant an open-source license; see NOTICE.
