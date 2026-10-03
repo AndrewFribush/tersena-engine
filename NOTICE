@@ -1,0 +1,9 @@
+Copyright (c) 2026 Andrew Fribush. All rights reserved.
+
+This repository is a curated source showcase from Tersena. No open-source
+license or other license grant is provided. This notice applies to the
+original source, documentation, and hand-authored synthetic fixtures.
+
+Third-party ingredient or regulatory databases are not distributed here.
+Open Beauty Facts is credited only as the source of the historical evaluation
+corpus described in README.md; its data is not included in this extraction.

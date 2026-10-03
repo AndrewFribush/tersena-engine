@@ -1,0 +1,55 @@
+{
+  "source_project": "Tersena / ingredientcheck (private business repository)",
+  "source_commit": "7abf4b377edf3d8f7444701e39db6ccc99ab17db",
+  "source_files": [
+    {
+      "path": "src/tersena/parser.py",
+      "sha256": "bcaa3de7d4d213407c594d08b50a679cd3907db203e5cde895d7e427575f8a8b"
+    },
+    {
+      "path": "src/tersena/matcher.py",
+      "sha256": "819f2438a6920f1038be1ea19bf860d0f172d4edf435a73f07a3fbc47925c4ba"
+    },
+    {
+      "path": "src/tersena/rules.py",
+      "sha256": "eb7ef03bceedf7056c38a533fde2f942ace32f77093e1d549fde8f9657fea79e"
+    },
+    {
+      "path": "src/tersena/producttypes.py",
+      "sha256": "927999980c0f4133472fd7decb59efd8bc53d46678226ebe90eec4530fc38943"
+    },
+    {
+      "path": "src/tersena/kb.py",
+      "sha256": "8168ec3eb9d7b1a707e61b7486230001b282986968d37425d0720f920b94d470"
+    },
+    {
+      "path": "src/tersena/flags.py",
+      "sha256": "38deb6aa231746c81f4c51d5087b2de72a4b07d1eecae54649a1febdb08badf2"
+    },
+    {
+      "path": "tests/test_parser.py",
+      "sha256": "971cb46c00b6900c7045550f27b0077598a2a5f1572d9100c29ff4bd897808a2"
+    },
+    {
+      "path": "tests/test_adversarial_parser.py",
+      "sha256": "b6b226128311c964b73c748e671b12401a43cd9f11cb5f6e8e541de87d62a73e"
+    },
+    {
+      "path": "tests/test_adversarial_kb.py",
+      "sha256": "356aebfa7a3ce3f046737ef1206a154d8fab9e10f69c0762e20d082472ceb807"
+    },
+    {
+      "path": "tests/test_matcher.py",
+      "sha256": "245344d54c467ebed7b43546b8c7ad0eaea0192a63a019e226cfc42e338091c2"
+    },
+    {
+      "path": "tests/test_adversarial_rules.py",
+      "sha256": "78720cbeb981a0271c7c66d81c0c7ab20a58b3a95af95c2b8cea4bdd553a5ebd"
+    },
+    {
+      "path": "data/eval_report.md",
+      "sha256": "f543297ab514321c20c0753a651c111dd25adf956ccb41f08736e34f365e7cd4"
+    }
+  ],
+  "note": "Hashes identify inspected source inputs, not publication permission or independent verification. See PROVENANCE.md for extraction changes."
+}
